@@ -4,6 +4,7 @@ import CreateRoom from "./routes/CreateRoom";
 import Room from "./routes/Room";
 
 function App() {
+  console.log("Hello world");
   return (
     <BrowserRouter>
       <Switch>
