@@ -1,0 +1,26 @@
+.video__sidebar
+{
+    position: absolute;
+    top:43%;
+    right: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.video__sidebar__icon
+{
+    color:white;
+    padding:0px;
+    margin-top: 20px;
+}
+
+.video__sidebar__option > p
+{
+  color: white;
+    font-size: 12px;
+    font-weight: lighter;
+    text-align: center;
+    line-height: 5px;
+
+
+}
