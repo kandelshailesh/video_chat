@@ -3,7 +3,7 @@
   "homepage": "https://kandelshailesh.github.io/video_chat/",
   "version": "0.1.0",
   "private": true,
-  "proxy": "http://localhost:8000",
+  "proxy": "https://safe-cliffs-70260.herokuapp.com/",
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@material-ui/icons": "^4.9.1",
