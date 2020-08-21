@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "307ad360be98b8aa137010df4b7151f9",
+    "revision": "c92b5bcef6398057c6dbc59faa046698",
     "url": "/video_chat/index.html"
   },
   {
-    "revision": "ec8e06cddb355cf06893",
+    "revision": "5ec19f206f2f9c3fd04f",
     "url": "/video_chat/static/css/main.ca348e32.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/video_chat/static/js/2.b6679903.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ec8e06cddb355cf06893",
-    "url": "/video_chat/static/js/main.f53605cc.chunk.js"
+    "revision": "5ec19f206f2f9c3fd04f",
+    "url": "/video_chat/static/js/main.9dc34cff.chunk.js"
   },
   {
     "revision": "2cca9ce0f12946d2fe63",
